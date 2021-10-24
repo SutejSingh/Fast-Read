@@ -9,7 +9,7 @@ I really don't like reading the long history reading assignments at all. I have 
 I built it using JavaScript, HTML, and CSS. JavaScript handles all the text functions in the back while HTML and CSS please your eyes.
 
 ## Challenges I ran into
-The hardest was definitely JavaScript. Figuring out how to manage the text data and make it appear in fixed intervals on the screen took a lot of time for me. Also centering a div can be a huge problem too.
+The hardest part was definitely JavaScript. Figuring out how to manage the text data and make it appear in fixed intervals on the screen took a lot of time for me. Also centering a div can be a huge problem too.
 
 ## Accomplishments that I am proud of
 I am proud that I was able to build what I aimed to build. Though, I wish I had enough time to implement a few features I had in mind.
