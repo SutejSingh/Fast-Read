@@ -1,4 +1,6 @@
 # Fast-Read
+Available Here: 
+https://sutejsingh.github.io/Fast-Read/
 ## Function
 Fast read helps you reduce the time it takes to read long articles. It can help you become 30-45% faster at reading. It can help readers and can easily integrate into a pre-existing suite of reading assistance software like Microsoft's Immersive Reader.
 
