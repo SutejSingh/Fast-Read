@@ -1,4 +1,5 @@
 # Fast-Read
+Project Made in 6 hours for DubHacks Hackathon
 Available Here: 
 https://sutejsingh.github.io/Fast-Read/
 ## Function
